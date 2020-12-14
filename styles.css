@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Langar', cursive;
+  margin: 50px auto 0 auto;
+  font-size: 90px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.clouddown {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.cloudtop {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+  line-height: 2;
+}
+
+.cloud {
+  background-color: #c6fced;
+  padding-top: 100px;
+}
+
+.jhonwick {
+  width: 400px;
+  border-radius: 100%;
+}
+
+.guitar {
+  width: 300px;
+  border-radius: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+.gamer {
+  width: 300px;
+  border-radius: 100px;
+  float: right;
+  margin-right: 30px;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #16a596;
+font-family: 'Langar', cursive;
+margin: 10px 20px;
+text-decoration: none;
+}
+a:hover{color: #eaf6f6;}
+
+
+.webtools {
+  font-weight: normal;
+  line-height: 2;
+}
+
+.webtools:hover {
+  color: #f1e189;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.contactme {
+   background: #65D6CE;
+   background-image: -webkit-linear-gradient(top, #65D6CE, #BEDCFA);
+   background-image: -moz-linear-gradient(top, #65D6CE, #BEDCFA);
+   background-image: -ms-linear-gradient(top, #65D6CE, #BEDCFA);
+   background-image: -o-linear-gradient(top, #65D6CE, #BEDCFA);
+   background-image: -webkit-gradient(to bottom, #65D6CE, #BEDCFA);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: serif;
+   font-size: 23px;
+   font-weight: 100;
+   padding: 20px;
+   -webkit-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   -moz-box-shadow: 1px 1px 20px 0 #FFFFFF;
+   box-shadow: 1px 1px 20px 0 #FFFFFF;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #C6FCED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.contactme:hover {
+   border: solid #FFFFFF 1px;
+   background: #98ACF8;
+   background-image: -webkit-linear-gradient(top, #98ACF8, #98ACF8);
+   background-image: -moz-linear-gradient(top, #98ACF8, #98ACF8);
+   background-image: -ms-linear-gradient(top, #98ACF8, #98ACF8);
+   background-image: -o-linear-gradient(top, #98ACF8, #98ACF8);
+   background-image: -webkit-gradient(to bottom, #98ACF8, #98ACF8);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.end {
+  background-color: #66bfbf;
+  margin: 0;
+  padding: 50px 0 20px;
+}
+
+.middle-container {
+  margin: 100px auto 100px auto;
+}
+
+.you {
+  width: 30%;
+  margin: auto;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 8%;
+  margin: 40px auto 40px auto;
+}
+
+.email {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copy{color: #eaf6f6;
+font-size: 0.75rem;
+padding: 20px 0 20px 0}
